@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fudge Factory",
+    "cost": 50,
+    "rate": 2
+  },
+  {
+    "name": "Caramel Boiler",
+    "cost": 100,
+    "rate": 5
+  },
+  {
+    "name": "Nougat Extractor",
+    "cost": 300,
+    "rate": 10
+  }
+]
