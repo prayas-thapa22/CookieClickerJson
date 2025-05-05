@@ -29,21 +29,6 @@
       "name": "Peanut Cluster Press",
       "cost": 2500,
       "rate": 60
-    },
-    {
-      "name": "Dark Chocolate Reactor",
-      "cost": 5000,
-      "rate": 100
-    },
-    {
-      "name": "Golden Cocoa Core",
-      "cost": 10000,
-      "rate": 180
-    },
-    {
-      "name": "Quantum Candy Collider",
-      "cost": 20000,
-      "rate": 300
     }
   ]
 }
